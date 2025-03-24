@@ -1,11 +1,11 @@
-<h1 align="center">Hey 👋, I'm Sarmad Ali</h1>
+<h1 align="center">Hey, I'm Sarmad Ali</h1>
 <h3 align="center">💻 Founder of Syrex Tech</h3>
 <h3 align="center">🚀 Full Stack Developer | Next.js | JS & TS | Python | Agentic AI | Blockchain</h3>
 <h3 align="center">🎓 BS (Artificial Intelligence) Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarmadalikhanofficial&label=Profile%20views&color=0e75b6&style=flat" alt="sarmadalikhanofficial" /> </p>
 
-- 👨‍💻 All of my projects are available at [syrex.vercel.app](syrex.vercel.app)
+- 👨‍💻 All of my projects are available at [syrex.vercel.app](https://syrex.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
