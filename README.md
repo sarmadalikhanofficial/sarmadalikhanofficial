@@ -18,7 +18,6 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sarmadalikhanofficial&theme=youtube-dark&border_radius=5.5)](https://git.io/streak-stats)
 
 <p align="center">
   <img align="center" src="https://streak-stats.demolab.com?user=sarmadalikhanofficial&theme=youtube-dark&border_radius=5.5" />
