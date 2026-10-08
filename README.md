@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Sarmad Ali</h1>
 <h3 align="center">💻 Founder of Syrex Tech</h3>
-<h3 align="center">🚀 Agentic AI Developer | Next.js | JS & TS | Python | AI | WEB3 | Metaverse | Blockchain</h3>
-<h3 align="center">🎓 BS (Artificial Intelligence) Student</h3>
+<h3 align="center">🚀 AI Eng | Next.js | JS & TS | Python | AI | WEB3 | Blockchain</h3>
+<h3 align="center">🎓 BS (Artificial Intelligence)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarmadalikhanofficial&label=Profile%20views&color=0e75b6&style=flat" alt="sarmadalikhanofficial" /> </p>
 
